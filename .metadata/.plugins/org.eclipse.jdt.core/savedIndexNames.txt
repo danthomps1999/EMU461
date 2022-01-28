@@ -1,3 +1,2 @@
-INDEX VERSION 1.131+D:\EMU 461\Eclipse Workspace\.metadata\.plugins\org.eclipse.jdt.core
-2085438896.index
+INDEX VERSION 1.131+C:\EMU 461 Eclipse Workspace\EMU461\.metadata\.plugins\org.eclipse.jdt.core
 903600381.index
