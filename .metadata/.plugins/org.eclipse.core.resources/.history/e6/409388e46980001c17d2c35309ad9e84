@@ -1,0 +1,9 @@
+package part1;
+
+public class UserInputs {
+
+	public void askForInputs() {
+		System.out.println("Please input the name of the file you'd like to read from.");
+	}
+
+}

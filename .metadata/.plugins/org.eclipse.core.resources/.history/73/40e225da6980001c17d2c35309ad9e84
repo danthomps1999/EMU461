@@ -1,0 +1,10 @@
+package part1;
+
+public class UserInputs {
+
+	
+	public void askForInputs() {
+		
+	}
+	
+}

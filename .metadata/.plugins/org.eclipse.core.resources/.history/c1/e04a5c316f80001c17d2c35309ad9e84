@@ -1,0 +1,18 @@
+package part1;
+
+public class PartOneRunner {
+
+	public static void main(String[] args) {
+		UserInputs inputs = new UserInputs();
+		
+		inputs.askForInputs();
+		
+		System.out.println(inputs.getPuzzleSize());
+		
+		AStarSliding algorithm = new AStarSliding();
+		
+		
+		
+	}
+
+}
